@@ -12,7 +12,7 @@ class App extends React.Component {
     }
 
     componentDidMount(){
-        this.handleSubmit('kurac');
+        this.handleSubmit('software development');
     }
 
     onVideoSelect = (video) => {
